@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font: 16px;
+}
+
+
+header {
+    background-color: rgb(235, 235, 235);
+    padding: .9rem;
+    margin: 0;
+}
+
+h1 {
+    padding: .1rem;
+    color: #F2A30B;
+}
+
+h2 {
+    padding: 1rem;
+    color: #F2A30B;
+}
+
+
+#buttonId {
+    padding:  .9rem 5rem .9rem .5rem;
+    margin: 0;
+    display: flex;
+    background-color: #06176F;
+    border-bottom: solid 2px #FBE407;
+
+}
+
+
+
+button {
+    font-size: 14px;
+    padding: 10px;
+    margin: 1px;
+    border-radius: .4rem;
+    background-color: #F2A30B;
+}
+
+#pg13rating {
+    margin-left: .2rem;
+}
+
+#over100episodes {
+    margin-left: .9rem;
+}
+
+#scoreabout5 {
+    margin-left: .9rem;
+}
+
+
+#animeCharInfo {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#animeCharInfo div {
+    padding: 4px 0 0 .8rem;
+    border: #FBE407 2px solid;
+    margin: 8px;
+    color: #F2A30B;
+}
+
+
+#title {
+display: flex;
+flex-wrap: wrap;
+max-width: 400px;
+margin-left: -.9rem;
+}
+
